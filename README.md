@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HIGSHYO;
-- 👀 I’m interested in javascript;
-- 🌱 I’m currently learning html and javascript;
-- 📫 you can find me in gmail: luizfellipeluquezi@gmail.com or on instagram: higshyo;  <З
+- 👀 I’m interested in javascript and Python;
+- 🌱 I’m currently learning Python and javascript;
+- 📫 you can find me in gmail: luizfellipeluquezi@gmail.com or on instagram: _Luquezi;  <З
 
 <!---
 HIGSHYO/HIGSHYO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
